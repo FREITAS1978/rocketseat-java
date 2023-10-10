@@ -1,4 +1,4 @@
-# rocketseat-java
+# Curso Java Rocketseat outubro 2023
 Curso online de Java pela Rocketseat (Professora Daniele Leão)
 
 Vamos decolar! Nessa aula vamos dar os primeiros passos em Java e na construção da aplicação.
